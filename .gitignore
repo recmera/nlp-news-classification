@@ -1,8 +1,8 @@
 .ipynb_checkpoints/*
 
 topics.csv
-CNN_test.csv
-CNN_train.csv
-CNN_valid.csv
+
+
+
 glove-sbwc.i25.vec.gz
 glove-sbwc.i25.vec.gz.pt
