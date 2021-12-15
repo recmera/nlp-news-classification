@@ -26,7 +26,7 @@ El proyecto contempla la clasificación de noticias de distintos medios de prens
  
 </div>
 
-Los resultados de la implementación de CNN y Random Forest indican que la categoría más compleja para clasificar es 0.mundo, esto se debe a que la categoría es un compendio de las otras categorías-
+Los resultados de la implementación de CNN y Random Forest indican que la categoría más compleja para clasificar es _Mundo_, esto se debe a que la categoría es un compendio de las otras categorías-
 
 ## Referencias
 
