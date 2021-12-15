@@ -9,7 +9,7 @@
 
 El proyecto contempla la clasificación de noticias de distintos medios de prensa chilenos en 10 categorías, estas son las siguientes:
 
-<center>
+<div align="center">
 
 |N° | categoría |
 |---|:---------:|
@@ -24,7 +24,7 @@ El proyecto contempla la clasificación de noticias de distintos medios de prens
 |8|crimen, delitos y justicia|
 |9|salud|
  
-</center>
+</div>
 
 Los resultados de la implementación de CNN y Random Forest indican que la categoría más compleja para clasificar es 0.mundo, esto se debe a que la categoría es un compendio de las otras categorías-
 
