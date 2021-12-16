@@ -11,7 +11,7 @@ El proyecto contempla la clasificación de noticias de distintos medios de prens
 
 <div align="center">
 
-|N° | categoría |
+|**N°** | **Categoría** |
 |---|:---------:|
 |0|mundo|
 |1|economía|
