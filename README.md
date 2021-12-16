@@ -1,10 +1,5 @@
 # Chilean news media classification
 
-## Integrantes:
-
-- Ricardo Coronado
-- Miguel Nahuelpán
-
 ## Descripción
 
 El proyecto contempla la clasificación de noticias de distintos medios de prensa chilenos en 10 categorías, estas son las siguientes:
