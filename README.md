@@ -22,3 +22,5 @@ El proyecto contempla la clasificación de noticias de distintos medios de prens
 </div>
 
 
+### Link de interés
+- https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
